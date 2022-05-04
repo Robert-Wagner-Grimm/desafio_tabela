@@ -1,6 +1,6 @@
 # Desafio_Tabela
 
-Realizado a conlusão do exercício HTML e CSS
+Realizado a conclusão do exercício HTML e CSS
 
 [<img src="./exercicio.gif" alt="Conclusão do exercício">]
 
