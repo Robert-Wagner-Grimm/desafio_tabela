@@ -1,0 +1,25 @@
+html {
+    background-color: white;
+    font-size: 50px;
+}
+
+.tiposdemoda th {
+    background-color: #bb86fc;
+    color: white;
+    padding: 10px;
+    border: 5px solid orange;
+}
+
+.tiposdecasa th {
+    background-color: #00C4B4;
+    color: white;
+    padding: 10px;
+    border: 5px solid orange;
+}
+
+.objetos td {
+    background-color: #424250;
+    color: white;
+    padding: 10px;
+    border: 5px solid orange;
+}
